@@ -1,3 +1,3 @@
-class StaticController < ActiveRecord::Base
-
+class StaticController < ActionController
+  layout ""
 end
