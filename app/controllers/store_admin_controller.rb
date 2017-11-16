@@ -8,5 +8,7 @@ class StoreAdminController < ApplicationController
     render :layout =>"admin"
   end
 
+  def invoice
 
+  end
 end
